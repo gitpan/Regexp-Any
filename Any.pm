@@ -8,7 +8,7 @@ use Carp qw(confess);
 require Exporter;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK);
 
-$Regexp::Any::VERSION    = 0.6;
+$Regexp::Any::VERSION    = 0.7;
 @ISA                            = qw(Exporter);
 @EXPORT                         = qw(&match_any &match_any_and_capture);
 @EXPORT_OK                      = qw(&match_any);

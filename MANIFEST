@@ -1,4 +1,4 @@
 MANIFEST
 Any.pm
 Makefile.PL
-t/any.t
+test.pl
